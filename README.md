@@ -4,6 +4,10 @@
     My name is Paul Cristea, and I love Cats</p>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="cat.gif" alt="Cat Gif" style="width: 200px; height: auto;">
+    <pre style="font-size: 10px;">
+      /\_/\  
+     ( o.o ) 
+      > ^ <
+    </pre>
   </div>
 </div>
