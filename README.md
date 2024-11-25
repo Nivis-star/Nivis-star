@@ -1,4 +1,4 @@
-<img align="right" src="cat.gif" style="border-radius: 10px;">
+<img align="right" src="cat.png" width="250" height="250" />
 
 ### Hello world! My name is Paul Cristea.
 
